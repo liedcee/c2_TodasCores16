@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1605729002
+#1605796223
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -42,6 +42,10 @@ images/bt_proxima-sheet0.png
 images/objetivo-sheet0.png
 images/objetivo2-sheet0.png
 images/bt_som-sheet0.png
+images/fechar-sheet0.png
+images/n_fechar-sheet0.png
+images/reiniciar-sheet0.png
+images/n_reiniciar-sheet0.png
 media/cavalo.ogg
 media/a.m4a
 media/a.ogg
@@ -75,6 +79,7 @@ media/clique_animal.ogg
 media/comp_cavalo.ogg
 media/comp_vogaisobjet.ogg
 media/objetivo_pre.ogg
+media/parabensateproxima.ogg
 icon-16.png
 icon-32.png
 icon-114.png

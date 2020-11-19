@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605729002,
+	"version": 1605796223,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -43,6 +43,10 @@
 		"images/objetivo-sheet0.png",
 		"images/objetivo2-sheet0.png",
 		"images/bt_som-sheet0.png",
+		"images/fechar-sheet0.png",
+		"images/n_fechar-sheet0.png",
+		"images/reiniciar-sheet0.png",
+		"images/n_reiniciar-sheet0.png",
 		"media/cavalo.ogg",
 		"media/a.m4a",
 		"media/a.ogg",
@@ -76,6 +80,7 @@
 		"media/comp_cavalo.ogg",
 		"media/comp_vogaisobjet.ogg",
 		"media/objetivo_pre.ogg",
+		"media/parabensateproxima.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
